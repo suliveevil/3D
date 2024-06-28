@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e281649fbc4aafd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网站/Buy Me a Coffee.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/CoreXZ.md"
+                "file": "网站/Buy Me a Coffee.md"
               }
             }
           },
@@ -143,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/CoreXZ.md",
+                "file": "网站/Buy Me a Coffee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件/CoreXZ.md",
+                "file": "网站/Buy Me a Coffee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +194,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6917ddc2ec308e7",
+  "active": "e281649fbc4aafd0",
   "lastOpenFiles": [
+    "硬件/CoreXZ.md",
+    "网站/Buy Me a Coffee.md",
+    "网站/turbosquid.md",
+    "网站/Sketchfab.md",
+    "网站/STLFinder.md",
+    "网站/ProductionCrate.md",
+    "网站/GrabCAD.md",
+    "网站/Free3D.md",
+    "网站/3d.si.edu.md",
+    "网站/3DP.ing.md",
+    "网站/usdzshare.md",
     "硬件/CoreXY.md",
     "硬件/Delta.md",
     "硬件/3D打印机/品牌/prusa.md",
@@ -199,18 +222,7 @@
     "topics/电压.md",
     "topics/振动.md",
     "topics/蠕动.md",
-    "软件/CAE.md",
-    "耗材/PA.md",
-    "硬件/光敏传感器.md",
-    "硬件/传感器.md",
-    "硬件/封箱.md",
-    "硬件/仓温.md",
-    "模型/readme.md",
-    "模型/models/FOSBOS.md",
-    "模型/models/Aben Fan.md",
     "模型/models",
-    "工艺/速度.md",
-    "模型/Low Poly.md",
     "topics"
   ]
 }
