@@ -6,3 +6,16 @@
 [[拓竹A1 mini]]
 
 [[V-minion]]
+
+
+
+# 其他
+
+
+[[CoreXY]]
+
+[[Delta]]
+
+
+
+

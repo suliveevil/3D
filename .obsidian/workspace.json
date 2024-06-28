@@ -13,26 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工艺/速度.md",
+                "file": "耗材/PA.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4fc080fcf7170319",
+            "id": "6651db447d70335c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/3D打印机/品牌/IEMAI 3D.md",
+                "file": "topics/振动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6c324fad5d281a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "硬件/CoreXY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6917ddc2ec308e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "硬件/CoreXZ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "delta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,35 +117,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5579e3275266646",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "硬件/3D打印机/品牌/IEMAI 3D.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2c10af6da7c19774",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "硬件/3D打印机/品牌/IEMAI 3D.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "bf1c4010f0c23705",
             "type": "leaf",
             "state": {
@@ -138,7 +133,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/3D打印机/品牌/IEMAI 3D.md"
+                "file": "硬件/CoreXZ.md"
+              }
+            }
+          },
+          {
+            "id": "59dc5c5cd0125409",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "硬件/CoreXZ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31cbdf6d4591009d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "硬件/CoreXZ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -146,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,25 +182,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a4fc8210a9c6d6a7",
+  "active": "a6917ddc2ec308e7",
   "lastOpenFiles": [
-    "软件/MaPa.md",
-    "topics/PaaS.md",
-    "topics/SaaS.md",
-    "软件/OBJ.md",
-    "topics/淬火.md",
-    "topics/物联网.md",
-    "topics",
-    "耗材/PU.md",
-    "broken links output.md",
-    "软件/Fusion 360.md",
-    "硬件/3D打印机/品牌/IEMAI 3D.md",
-    "topics/回火.md",
-    "topics/正火.md",
-    "topics/退火.md",
+    "硬件/CoreXY.md",
+    "硬件/Delta.md",
+    "硬件/3D打印机/品牌/prusa.md",
+    "topics/堵头.md",
+    "硬件/热敏传感器.md",
+    "topics/裹头.md",
+    "topics/喉管.md",
+    "硬件/热端.md",
+    "README.md",
+    "硬件/挤出机.md",
+    "topics/电流.md",
+    "topics/功率.md",
+    "topics/电压.md",
+    "topics/振动.md",
+    "topics/蠕动.md",
+    "软件/CAE.md",
+    "耗材/PA.md",
+    "硬件/光敏传感器.md",
+    "硬件/传感器.md",
+    "硬件/封箱.md",
+    "硬件/仓温.md",
     "模型/readme.md",
-    "模型/remix.md",
-    "模型/翘边.md",
-    "工艺/速度.md"
+    "模型/models/FOSBOS.md",
+    "模型/models/Aben Fan.md",
+    "模型/models",
+    "工艺/速度.md",
+    "模型/Low Poly.md",
+    "topics"
   ]
 }
