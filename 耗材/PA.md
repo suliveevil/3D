@@ -2,6 +2,7 @@
 aliases:
   - 聚酰胺
   - 尼龙
+  - Nylon
 ---
 
 
