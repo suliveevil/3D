@@ -3,7 +3,7 @@ Repetier Firmware，for [[Arduino]] based RepRap [[3D打印机|3D printer]]
 
 # 竞品
 
-Klipper
+[[Klipper]]
 
 Marlin
 

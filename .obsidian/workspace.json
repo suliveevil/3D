@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "硬件/CoreXZ.md",
+                "file": "模型/models/CC BY NC SA/FOSBOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d49dde43efc3c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "模型/models/CC BY NC SA/FOSBOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01d57ff15e16ae1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "硬件/3D打印机/V-Core.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delta",
+                "query": "core",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "硬件/CoreXZ.md"
+                "file": "硬件/3D打印机/V-Core.md"
               }
             }
           },
@@ -143,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "硬件/CoreXZ.md",
+                "file": "硬件/3D打印机/V-Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "硬件/CoreXZ.md",
+                "file": "硬件/3D打印机/V-Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,35 +207,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6917ddc2ec308e7",
+  "active": "01d57ff15e16ae1f",
   "lastOpenFiles": [
-    "硬件/CoreXY.md",
-    "硬件/Delta.md",
-    "硬件/3D打印机/品牌/prusa.md",
-    "topics/堵头.md",
-    "硬件/热敏传感器.md",
-    "topics/裹头.md",
-    "topics/喉管.md",
-    "硬件/热端.md",
-    "README.md",
-    "硬件/挤出机.md",
-    "topics/电流.md",
-    "topics/功率.md",
-    "topics/电压.md",
-    "topics/振动.md",
-    "topics/蠕动.md",
-    "软件/CAE.md",
-    "耗材/PA.md",
-    "硬件/光敏传感器.md",
-    "硬件/传感器.md",
-    "硬件/封箱.md",
-    "硬件/仓温.md",
-    "模型/readme.md",
-    "模型/models/FOSBOS.md",
-    "模型/models/Aben Fan.md",
-    "模型/models",
-    "工艺/速度.md",
-    "模型/Low Poly.md",
-    "topics"
+    "模型/models/CC BY NC/Woman cut - easy print by C B.md",
+    "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg",
+    "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg.crdownload",
+    "模型/models/获权商用-suliveevil/Block26 by BoBo Innovation 勃勃文創.md",
+    "模型/models/获权商用-suliveevil/秦王剑 by Maker范儿.md",
+    "person/Maker范儿.md",
+    "person/萌小白DIY.md",
+    "模型/models/获权商用-suliveevil/block26飞盘 by 萌小白DIY.md",
+    "耗材/耗材.md",
+    "assets/ABS-iemai3d.pdf",
+    "assets",
+    "模型/models/CC BY ND/Koi Fish Chopstick Rest by 3Demon.md",
+    "模型/models/CC BY SA/Gravity Broom Holder by LoboCNC.md",
+    "模型/models/CC BY NC ND/Voronoi vase by Area 3d Studio.md",
+    "模型/models/CC BY NC SA/Rat Rig V-Core 3.1 - CoreXY 3D Printer by Rat Rig Official.md",
+    "模型/models/GPL 3.0/MOSQUITO 气枪套件.md",
+    "模型/models/GPL 3.0/Voron Design Calibration Cube by Voron Design.md",
+    "模型/models/GPL 3.0/AI-Generated Low-Poly Cat by markury.md",
+    "模型/models/GPL 2.0/Lego Compatible Bricks by James Prints Stuff.md",
+    "模型/models/others",
+    "模型/models/获权商用-suliveevil",
+    "模型/models/BSD/Soap Dish by Faasteer.md",
+    "模型/models/GPL 3.0",
+    "模型/models/GPL 2.0",
+    "Creative Commons.md",
+    "模型/models/CC BY NC ND",
+    "模型/models/CC BY/Gridfinity MakPac Systainer Baseplate by Guto.md",
+    "模型/models/CC BY/Dovetail gridfinity base - Short v2 by aTm_wRECr.md",
+    "模型/models/CC BY/Apple Macintosh 512K Model M0001 by Peter Farell.md",
+    "模型/models/CC BY NC SA/Makita MAKPAC Mini; Size 1, 2, 3 and 4 (50 % scale) by suit.md",
+    "模型/models/CC BY NC SA/FOSBOS.md",
+    "模型/models/CC0/Road bike Aero by Karol.md",
+    "模型/models/LGPL/Aben Fan.md",
+    "模型/models/SDF/Collapsing Pirate Sword （Print In Place） by 3D Printing World.md",
+    "模型/models/BSD",
+    "模型/models/SDF"
   ]
 }
