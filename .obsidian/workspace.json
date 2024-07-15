@@ -4,22 +4,119 @@
     "type": "split",
     "children": [
       {
-        "id": "1242b531b61fe57b",
+        "id": "dad65780de42d9c6",
         "type": "tabs",
         "children": [
           {
-            "id": "b51281cbc12a5524",
+            "id": "06ce890f933d1906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/喷嘴.md",
+                "file": "brand&company/PPprint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d883c5ce92a3ac0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brand&company/magigoo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56a2cf7d152be924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "person&team/JanTec Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fded8fae8b215044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "brand&company/nobufil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b15414d85f04b550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件/Ondsel ES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c3da64fc845f1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件/Shapr3D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65e81dc7dc142401",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网站/SelfCAD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80e6b8ea6bd44508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件/Klipper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eb2080946773d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "person&team/247printing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -48,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "klipper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topics/喷嘴.md"
+                "file": "person&team/247printing.md"
               }
             }
           },
@@ -106,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "topics/喷嘴.md",
+                "file": "person&team/247printing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "topics/喷嘴.md",
+                "file": "person&team/247printing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,36 +244,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b51281cbc12a5524",
+  "active": "a4fc8210a9c6d6a7",
   "lastOpenFiles": [
-    "topics/领国者.md",
-    "topics/桌游.md",
-    "topics/收纳.md",
-    "品牌/乐高.md",
-    "品牌/佳明.md",
-    "品牌/三帝科技.md",
-    "暂停.md",
-    "company",
-    "层高.md",
-    "工艺/支撑.md",
-    "topics/切片软件.md",
-    "Bambu Studio.md",
+    "person&team/247printing.md",
+    "软件/Klipper.md",
+    "软件/Blender.md",
+    "网站/Tinkercad.md",
+    "网站/SelfCAD.md",
+    "软件/Shapr3D.md",
+    "软件/Ondsel ES.md",
+    "软件/FreeCAD.md",
+    "brand&company/Bavaria Filaments.md",
+    "brand&company/nobufil.md",
+    "person&team/JanTec Engineering.md",
+    "brand&company/magigoo.md",
+    "brand&company/PPprint.md",
+    "brand&company/colorFabb.md",
+    "brand&company/HATCHBOX.md",
+    "brand&company/FIBERTHREE.md",
+    "耗材/PP.md",
+    "耗材/PP-CF.md",
     "线材.md",
-    "耗材.md",
-    "topics/3D打印笔.md",
-    "负零件.md",
-    "高度范围修改器.md",
-    "支撑生成器.md",
-    "支撑屏蔽.md",
-    "修改器.md",
-    "部件.md",
-    "走线类型.md",
+    "测试模型.md",
+    "打印配置.md",
+    "topics/耗材.md",
+    "topics/层高.md",
+    "topics/8-Bit.md",
     "topics/喷嘴.md",
-    "工艺/质量.md",
-    "工艺/强度.md",
-    "工艺/3D打印工艺.md",
-    "耗材/PA.md",
-    "品牌",
+    "压力提前.md",
+    "company",
+    "brand&company",
     "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg",
     "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg.crdownload",
     "assets/ABS-iemai3d.pdf",
