@@ -4,119 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dad65780de42d9c6",
+        "id": "878c47807b9d118f",
         "type": "tabs",
         "children": [
           {
-            "id": "06ce890f933d1906",
+            "id": "d52367dd30e61fd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brand&company/PPprint.md",
+                "file": "多色打印.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d883c5ce92a3ac0c",
+            "id": "6fcbc5e78bd5e579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brand&company/magigoo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56a2cf7d152be924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "person&team/JanTec Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fded8fae8b215044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "brand&company/nobufil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b15414d85f04b550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件/Ondsel ES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c3da64fc845f1a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件/Shapr3D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65e81dc7dc142401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网站/SelfCAD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80e6b8ea6bd44508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软件/Klipper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3eb2080946773d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "person&team/247printing.md",
+                "file": "brand&company/SpiderMaker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "klipper",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "person&team/247printing.md"
+                "file": "brand&company/SpiderMaker.md"
               }
             }
           },
@@ -203,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "person&team/247printing.md",
+                "file": "brand&company/SpiderMaker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "person&team/247printing.md",
+                "file": "brand&company/SpiderMaker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,32 +161,33 @@
   },
   "active": "a4fc8210a9c6d6a7",
   "lastOpenFiles": [
-    "person&team/247printing.md",
-    "软件/Klipper.md",
-    "软件/Blender.md",
-    "网站/Tinkercad.md",
-    "网站/SelfCAD.md",
-    "软件/Shapr3D.md",
-    "软件/Ondsel ES.md",
-    "软件/FreeCAD.md",
-    "brand&company/Bavaria Filaments.md",
-    "brand&company/nobufil.md",
+    "brand&company/NOVA3D.md",
+    "brand&company/LOCTITE汉高乐泰.md",
+    "brand&company/飞胜.md",
+    "多色打印.md",
+    "模型/models/SDFL/Pen Holder (NO AMS NEEDED) by The Big Greek.md",
+    "模型/models/GPL 3.0/Open Cell Foam Model Torture Test by Kusz.md",
+    "模型/models/GPL 3.0/MOSQUITO 气枪套件.md",
+    "person&team/RJ Design.md",
+    "person&team/Maker范儿.md",
     "person&team/JanTec Engineering.md",
-    "brand&company/magigoo.md",
-    "brand&company/PPprint.md",
-    "brand&company/colorFabb.md",
-    "brand&company/HATCHBOX.md",
-    "brand&company/FIBERTHREE.md",
-    "耗材/PP.md",
-    "耗材/PP-CF.md",
-    "线材.md",
-    "测试模型.md",
-    "打印配置.md",
-    "topics/耗材.md",
-    "topics/层高.md",
-    "topics/8-Bit.md",
-    "topics/喷嘴.md",
-    "压力提前.md",
+    "person&team/CNC Kitchen.md",
+    "person&team/三三三三三文啊.md",
+    "person&team/萌小白DIY.md",
+    "person&team/247printing.md",
+    "person&team/3D学习小屋屋.md",
+    "topics/盲文.md",
+    "topics/视觉.md",
+    "topics/视错觉.md",
+    "模型/models/SDFL/Impossible Slide Illusion by Zurlingo-3D.md",
+    "topics/嗅觉.md",
+    "topics/味觉.md",
+    "topics/触觉.md",
+    "topics/听觉.md",
+    "模型/models/GPL 3.0/AI-Generated Low-Poly Cat by markury.md",
+    "模型/models/CC BY SA/Sliding Calendar(No AMS) by FreeManS.md",
+    "topics/俄罗斯方块.md",
+    "品牌",
     "company",
     "brand&company",
     "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg",
@@ -281,7 +197,6 @@
     "模型/models/others",
     "模型/models/获权商用-suliveevil",
     "模型/models/GPL 3.0",
-    "模型/models/GPL 2.0",
-    "模型/models/CC BY NC ND"
+    "模型/models/GPL 2.0"
   ]
 }
