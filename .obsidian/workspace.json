@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fae1f1da6e4f3ced",
+        "id": "b78b1e3aef09d30c",
         "type": "tabs",
         "children": [
           {
-            "id": "d7fbdf067543db7f",
+            "id": "4c8b367e161cfc37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BambuLab-Smooth-Timelapse.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time la",
+                "query": "kicad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BambuLab-Smooth-Timelapse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BambuLab-Smooth-Timelapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BambuLab-Smooth-Timelapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,35 +139,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d7fbdf067543db7f",
+  "active": "4c8b367e161cfc37",
   "lastOpenFiles": [
-    "Inova MK1.md",
-    "topics/拓竹A1.md",
-    "BambuLab-Smooth-Timelapse.md",
-    "model/readme.md",
-    "AI&software&website/readme.md",
-    "激光雷达.md",
-    "model/Apache/COVID-19-respirators.md",
-    "AI&software&website/BitComet.md",
-    "topics/Positron_LT.md",
-    "model/Apache",
-    "topics/JourneyMaker-Positron.md",
-    "topics/SnakeOil-XY.md",
-    "topics/IndyMill.md",
-    "工艺/CNC.md",
+    "AI&software&website/STLFinder.md",
+    "AI&software&website/CGTrader.md",
+    "AI&software&website/pcb2blender.md",
+    "AI&software&website/迪威模型.md",
+    "AI&software&website/KiCad.md",
+    "AI&software&website/yeggi.md",
+    "AI&software&website/GrabCAD.md",
+    "AI&software&website/3dmdb.md",
     "AI&software&website/Thangs.md",
-    "AI&software&website/PrintTo3D.md",
-    "AI&software&website/Fusion 360.md",
-    "AI&software&website/gcode-preview.md",
-    "GCode.md",
-    "工具/E-TKT.md",
-    "topics/G-code.md",
-    "产业链/SliceWorx.md",
-    "产业链/Stratasys.md",
-    "产业链/voron.md",
-    "产业链/ULTEM.md",
-    "产业链/SpiderMaker.md",
-    "产业链/Peopoly.md",
+    "AI&software&website/Free3D.md",
+    "AI&software&website/turbosquid.md",
+    "AI&software&website/readme.md",
+    "AI&software&website/usdzshare.md",
+    "topics/USDZ.md",
+    "topics/STEP.md",
+    "topics/RRF.md",
+    "topics/OBJ.md",
+    "AI&software&website/MaPa.md",
+    "AI&software&website/hob3l.md",
+    "topics/ERP.md",
+    "topics/EDA.md",
+    "topics/DXF.md",
+    "topics/CAM.md",
+    "topics/CAE.md",
+    "topics/CAD.md",
+    "topics/3MF.md",
+    "model/Apache",
     "assets/filament/爱丽兹/闪铸5M/Aliz 5M PETG.json",
     "assets/filament/爱丽兹/闪铸5M/Ailz 5M PETG 金属色.json",
     "assets/filament/爱丽兹/起迪 X-MAX3/Aliz  X-MAX3 PETG.json",
