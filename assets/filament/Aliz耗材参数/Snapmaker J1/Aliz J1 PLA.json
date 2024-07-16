@@ -1,0 +1,19 @@
+{
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Aliz J1 PLA"
+    ],
+    "filament_vendor": [
+        "Aliz"
+    ],
+    "from": "User",
+    "inherits": "Snapmaker J1 PLA",
+    "is_custom_defined": "0",
+    "name": "Aliz J1 PLA",
+    "version": "1.5.4.2"
+}

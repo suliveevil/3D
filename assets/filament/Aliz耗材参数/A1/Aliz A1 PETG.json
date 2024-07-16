@@ -1,0 +1,52 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "80"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_cost": [
+        "49"
+    ],
+    "filament_density": [
+        "1.27"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_settings_id": [
+        "Aliz A1 PETG"
+    ],
+    "filament_vendor": [
+        "Aliz"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Basic @BBL A1",
+    "is_custom_defined": "0",
+    "name": "Aliz A1 PETG",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "220"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.042"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "1.8.0.13"
+}

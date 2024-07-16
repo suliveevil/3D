@@ -1,0 +1,3 @@
+
+
+[Haskell-Things/ImplicitCAD(github.com)](https://github.com/Haskell-Things/ImplicitCAD): A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...

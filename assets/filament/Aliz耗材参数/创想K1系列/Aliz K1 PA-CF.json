@@ -1,0 +1,58 @@
+{
+    "fan_cooling_layer_time": [
+        "5"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "fan_min_speed": [
+        "10"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_settings_id": [
+        "Aliz K1 PA-CF"
+    ],
+    "filament_type": [
+        "PA-CF"
+    ],
+    "filament_vendor": [
+        "Aliz"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "inherits": "Creality Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Aliz K1 PA-CF",
+    "nozzle_temperature": [
+        "290"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "290"
+    ],
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "nozzle_temperature_range_low": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "40"
+    ],
+    "overhang_fan_threshold": [
+        "0%"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "2"
+    ],
+    "version": "1.8.0.0"
+}

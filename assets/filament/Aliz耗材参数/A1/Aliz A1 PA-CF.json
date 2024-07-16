@@ -1,0 +1,88 @@
+{
+    "complete_print_exhaust_fan_speed": [
+        "80"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "60"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "80"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "80"
+    ],
+    "fan_cooling_layer_time": [
+        "5"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "filament_cost": [
+        "49"
+    ],
+    "filament_density": [
+        "1.27"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "8"
+    ],
+    "filament_settings_id": [
+        "Aliz A1 PA-CF"
+    ],
+    "filament_type": [
+        "PA-CF"
+    ],
+    "filament_vendor": [
+        "Aliz"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Bambu PETG Basic @BBL A1",
+    "is_custom_defined": "0",
+    "name": "Aliz A1 PA-CF",
+    "nozzle_temperature": [
+        "290"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "290"
+    ],
+    "nozzle_temperature_range_high": [
+        "300"
+    ],
+    "nozzle_temperature_range_low": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "40"
+    ],
+    "overhang_fan_threshold": [
+        "0%"
+    ],
+    "pressure_advance": [
+        "0.026"
+    ],
+    "slow_down_layer_time": [
+        "2"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.8.0.13"
+}

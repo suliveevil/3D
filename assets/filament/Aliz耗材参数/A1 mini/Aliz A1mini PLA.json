@@ -1,0 +1,25 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "69"
+    ],
+    "filament_density": [
+        "1.27"
+    ],
+    "filament_settings_id": [
+        "Aliz A1mini PLA"
+    ],
+    "filament_vendor": [
+        "Aliz"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL A1M",
+    "is_custom_defined": "0",
+    "name": "Aliz A1mini PLA",
+    "pressure_advance": [
+        "0.028"
+    ],
+    "version": "1.7.0.30"
+}

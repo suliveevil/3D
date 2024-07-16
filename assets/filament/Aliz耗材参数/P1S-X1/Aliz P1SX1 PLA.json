@@ -1,0 +1,25 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "69"
+    ],
+    "filament_settings_id": [
+        "Aliz P1SX1 PLA"
+    ],
+    "filament_vendor": [
+        "Aliz"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Aliz P1SX1 PLA",
+    "pressure_advance": [
+        "0.015"
+    ],
+    "slow_down_min_speed": [
+        "10"
+    ],
+    "version": "1.7.0.30"
+}

@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "878c47807b9d118f",
+        "id": "fae1f1da6e4f3ced",
         "type": "tabs",
         "children": [
           {
-            "id": "d52367dd30e61fd2",
+            "id": "d7fbdf067543db7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "多色打印.md",
+                "file": "工具/E-TKT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6fcbc5e78bd5e579",
+            "id": "0e19a8c4bacd8a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brand&company/SpiderMaker.md",
+                "file": "G-code.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,10 +61,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "g-code",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "brand&company/SpiderMaker.md"
+                "file": "G-code.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "brand&company/SpiderMaker.md",
+                "file": "G-code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,14 +136,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "brand&company/SpiderMaker.md",
+                "file": "G-code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -161,42 +161,42 @@
   },
   "active": "a4fc8210a9c6d6a7",
   "lastOpenFiles": [
-    "brand&company/NOVA3D.md",
-    "brand&company/LOCTITE汉高乐泰.md",
-    "brand&company/飞胜.md",
-    "多色打印.md",
-    "模型/models/SDFL/Pen Holder (NO AMS NEEDED) by The Big Greek.md",
-    "模型/models/GPL 3.0/Open Cell Foam Model Torture Test by Kusz.md",
-    "模型/models/GPL 3.0/MOSQUITO 气枪套件.md",
-    "person&team/RJ Design.md",
-    "person&team/Maker范儿.md",
-    "person&team/JanTec Engineering.md",
-    "person&team/CNC Kitchen.md",
-    "person&team/三三三三三文啊.md",
-    "person&team/萌小白DIY.md",
-    "person&team/247printing.md",
-    "person&team/3D学习小屋屋.md",
-    "topics/盲文.md",
-    "topics/视觉.md",
-    "topics/视错觉.md",
-    "模型/models/SDFL/Impossible Slide Illusion by Zurlingo-3D.md",
-    "topics/嗅觉.md",
-    "topics/味觉.md",
-    "topics/触觉.md",
-    "topics/听觉.md",
-    "模型/models/GPL 3.0/AI-Generated Low-Poly Cat by markury.md",
-    "模型/models/CC BY SA/Sliding Calendar(No AMS) by FreeManS.md",
-    "topics/俄罗斯方块.md",
-    "品牌",
-    "company",
-    "brand&company",
+    "assets/filament/Aliz耗材参数/闪铸5M/Aliz 5M PETG.json",
+    "assets/filament/Aliz耗材参数/闪铸5M/Ailz 5M PETG 金属色.json",
+    "assets/filament/Aliz耗材参数/闪铸5M",
+    "assets/filament/Aliz耗材参数/起迪 X-MAX3/Aliz  X-MAX3 PETG.json",
+    "assets/filament/Aliz耗材参数/起迪 X-MAX3",
+    "assets/filament/Aliz耗材参数/创想K1系列/Aliz K1 PETG 金属.json",
+    "assets/filament/Aliz耗材参数/创想K1系列/Aliz K1 PETG.json",
+    "assets/filament/Aliz耗材参数/创想K1系列/Aliz K1 PA-CF.json",
+    "assets/filament/Aliz耗材参数/创想K1系列",
+    "assets/filament/Aliz耗材参数/Snapmaker J1/Aliz J1 PLA.json",
+    "assets/filament/Aliz耗材参数/Snapmaker J1/Aliz J1 PETG.json",
+    "打印配置.md",
+    "G-code.md",
+    "工艺/其他工艺参数.md",
     "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg",
-    "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg.crdownload",
-    "assets/ABS-iemai3d.pdf",
-    "assets",
-    "模型/models/others",
-    "模型/models/获权商用-suliveevil",
-    "模型/models/GPL 3.0",
-    "模型/models/GPL 2.0"
+    "AI&software&website/Bambu Studio.md",
+    "AI&software&website/Orca Slicer.md",
+    "ConicalSlicer.md",
+    "AI&software&website/CurviSlicer.md",
+    "model/CC BY SA/Flexi Rex.md",
+    "Skadis.md",
+    "topics/收纳.md",
+    "AI&software&website/OpenSCAD.md",
+    "topics/增材制造.md",
+    "topics/3D打印机.md",
+    "工艺/3D打印工艺.md",
+    "AI&software&website/hob3l.md",
+    "产业链/LH-Stinger.md",
+    "产业链/Positron_LT.md",
+    "多色打印.md",
+    "产业链/SnakeOil-XY.md",
+    "model/MIT/rackstack.md",
+    "AI&software&website/ShapeScript.md",
+    "工具/E-TKT.md",
+    "AI&software&website/There's An AI For That.md",
+    "AI&software&website/manyfold.md",
+    "AI&software&website/Spoolman.md"
   ]
 }

@@ -1,0 +1,91 @@
+{
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "cool_plate_temp": [
+        "35"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "35"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "0"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "0"
+    ],
+    "fan_cooling_layer_time": [
+        "100"
+    ],
+    "fan_max_speed": [
+        "100"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_cost": [
+        "49"
+    ],
+    "filament_density": [
+        "1.27"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "21"
+    ],
+    "filament_settings_id": [
+        "Aliz A1 PLA"
+    ],
+    "filament_type": [
+        "PLA"
+    ],
+    "filament_vendor": [
+        "Aliz"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "55"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "55"
+    ],
+    "inherits": "Bambu PETG Basic @BBL A1",
+    "is_custom_defined": "0",
+    "name": "Aliz A1 PLA",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
+    "nozzle_temperature_range_low": [
+        "190"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "overhang_fan_threshold": [
+        "50%"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
+    ],
+    "version": "1.8.0.13"
+}

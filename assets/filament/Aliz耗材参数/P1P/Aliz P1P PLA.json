@@ -1,0 +1,45 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "100"
+    ],
+    "filament_cost": [
+        "69"
+    ],
+    "filament_density": [
+        "1.27"
+    ],
+    "filament_settings_id": [
+        "Aliz P1P PLA"
+    ],
+    "filament_vendor": [
+        "Aliz"
+    ],
+    "filament_wipe_distance": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "55"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "55"
+    ],
+    "inherits": "Bambu PLA Basic @BBL P1P",
+    "name": "Aliz P1P PLA",
+    "pressure_advance": [
+        "0.015"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
+    ],
+    "version": "1.4.1.4"
+}
