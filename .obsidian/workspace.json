@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/E-TKT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e19a8c4bacd8a0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "G-code.md",
+                "file": "BambuLab-Smooth-Timelapse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "g-code",
+                "query": "time la",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G-code.md"
+                "file": "BambuLab-Smooth-Timelapse.md"
               }
             }
           },
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G-code.md",
+                "file": "BambuLab-Smooth-Timelapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G-code.md",
+                "file": "BambuLab-Smooth-Timelapse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +147,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a4fc8210a9c6d6a7",
+  "active": "d7fbdf067543db7f",
   "lastOpenFiles": [
+    "topics/拓竹A1.md",
+    "BambuLab-Smooth-Timelapse.md",
+    "model/readme.md",
+    "AI&software&website/readme.md",
+    "激光雷达.md",
+    "model/Apache/COVID-19-respirators.md",
+    "AI&software&website/BitComet.md",
+    "topics/Positron_LT.md",
+    "model/Apache",
+    "topics/JourneyMaker-Positron.md",
+    "topics/SnakeOil-XY.md",
+    "topics/IndyMill.md",
+    "工艺/CNC.md",
+    "AI&software&website/Thangs.md",
+    "AI&software&website/PrintTo3D.md",
+    "AI&software&website/Fusion 360.md",
+    "AI&software&website/gcode-preview.md",
+    "GCode.md",
+    "工具/E-TKT.md",
+    "topics/G-code.md",
+    "产业链/SliceWorx.md",
+    "产业链/Stratasys.md",
+    "产业链/voron.md",
+    "产业链/ULTEM.md",
+    "产业链/SpiderMaker.md",
+    "产业链/Peopoly.md",
     "assets/filament/爱丽兹/闪铸5M/Aliz 5M PETG.json",
     "assets/filament/爱丽兹/闪铸5M/Ailz 5M PETG 金属色.json",
     "assets/filament/爱丽兹/起迪 X-MAX3/Aliz  X-MAX3 PETG.json",
@@ -170,33 +184,7 @@
     "assets/filament/爱丽兹/Snapmaker J1/Aliz J1 PLA.json",
     "assets/filament/爱丽兹/Snapmaker J1/Aliz J1 PETG.json",
     "assets/filament/爱丽兹/P1S-X1/Aliz P1SX1 PLA.json",
-    "assets/filament/爱丽兹/P1S-X1/Aliz P1SX1 PETG.json",
-    "assets/filament/爱丽兹/P1S-X1/Aliz P1SX1 PETG-CF.json",
     "打印配置.md",
-    "G-code.md",
-    "工艺/其他工艺参数.md",
-    "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg",
-    "AI&software&website/Bambu Studio.md",
-    "AI&software&website/Orca Slicer.md",
-    "ConicalSlicer.md",
-    "AI&software&website/CurviSlicer.md",
-    "model/CC BY SA/Flexi Rex.md",
-    "Skadis.md",
-    "topics/收纳.md",
-    "AI&software&website/OpenSCAD.md",
-    "topics/增材制造.md",
-    "topics/3D打印机.md",
-    "工艺/3D打印工艺.md",
-    "AI&software&website/hob3l.md",
-    "产业链/LH-Stinger.md",
-    "产业链/Positron_LT.md",
-    "多色打印.md",
-    "产业链/SnakeOil-XY.md",
-    "model/MIT/rackstack.md",
-    "AI&software&website/ShapeScript.md",
-    "工具/E-TKT.md",
-    "AI&software&website/There's An AI For That.md",
-    "AI&software&website/manyfold.md",
-    "AI&software&website/Spoolman.md"
+    "assets/ratrig_v-core_4.0_external_dimensions_v1.jpg"
   ]
 }

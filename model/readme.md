@@ -38,6 +38,9 @@ sort file.ctime desc
 
 [AngelLM/Thor(github.com)](https://github.com/AngelLM/Thor): DIY 3D Printable Robotic Arm
 
+# other stuff
+
+[pka/awesome-3d-tiles(github.com)](https://github.com/pka/awesome-3d-tiles): Awesome 3D Tiles
 
 # misc
 
