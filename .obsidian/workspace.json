@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b78b1e3aef09d30c",
+        "id": "af4716b254fbffe8",
         "type": "tabs",
         "children": [
           {
-            "id": "4c8b367e161cfc37",
+            "id": "27a7ab75d4751eb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI&software&website/30TOOL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kicad",
+                "query": "斜",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI&software&website/30TOOL.md"
+              }
             }
           },
           {
@@ -101,8 +106,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "AI&software&website/30TOOL.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -117,13 +123,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI&software&website/30TOOL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,34 +146,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4c8b367e161cfc37",
+  "active": "a4fc8210a9c6d6a7",
   "lastOpenFiles": [
-    "AI&software&website/STLFinder.md",
-    "AI&software&website/CGTrader.md",
-    "AI&software&website/pcb2blender.md",
-    "AI&software&website/迪威模型.md",
-    "AI&software&website/KiCad.md",
-    "AI&software&website/yeggi.md",
-    "AI&software&website/GrabCAD.md",
-    "AI&software&website/3dmdb.md",
-    "AI&software&website/Thangs.md",
-    "AI&software&website/Free3D.md",
-    "AI&software&website/turbosquid.md",
-    "AI&software&website/readme.md",
-    "AI&software&website/usdzshare.md",
-    "topics/USDZ.md",
-    "topics/STEP.md",
-    "topics/RRF.md",
-    "topics/OBJ.md",
-    "AI&software&website/MaPa.md",
-    "AI&software&website/hob3l.md",
-    "topics/ERP.md",
-    "topics/EDA.md",
-    "topics/DXF.md",
-    "topics/CAM.md",
-    "topics/CAE.md",
-    "topics/CAD.md",
-    "topics/3MF.md",
+    "产业链/ModBot.md",
+    "AI&software&website/30TOOL.md",
+    "工艺/斜拼接缝.md",
+    "工艺/质量.md",
+    "工艺/沉孔搭桥.md",
+    "工艺/3D打印工艺.md",
+    "AI&software&website/Image To STL.md",
+    "topics/LeoCAD.md",
+    "topics/乐高.md",
+    "person&team/3D打印资源库.md",
+    "topics/Swapper3D.md",
+    "topics/多色打印.md",
+    "topics/记号笔.md",
+    "person&team/野生小虾米.md",
+    "person&team/木子小小阳.md",
+    "topics/Trad Rack.md",
+    "topics/IDEX.md",
+    "model/CC BY/Tessellating Optical Illusion by Dhruv Goyal.md",
+    "person&team/不死鳥の守り.md",
+    "person&team/费德提克-Fiddesticks.md",
+    "产业链/prusa.md",
+    "topics/ERCF.md",
+    "topics/线材.md",
+    "产业链/纵维立方.md",
+    "产业链/创想三维.md",
+    "产业链/三绿.md",
     "model/Apache",
     "assets/filament/爱丽兹/闪铸5M/Aliz 5M PETG.json",
     "assets/filament/爱丽兹/闪铸5M/Ailz 5M PETG 金属色.json",

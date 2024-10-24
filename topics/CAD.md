@@ -11,12 +11,17 @@
 
 # 软件
 
-[[AutoCAD]]
+[[AutoCAD]]、[[Fusion 360]]
 
 [[Blender]]
 
 [[FreeCAD]]
 
+# 在线工具
+
+[[Tinkercad]]
+
+[[SelfCAD]]
 
 # 其他
 
@@ -24,5 +29,5 @@
 
 [[CAM]]
 
-
+[[EDA]]
 
